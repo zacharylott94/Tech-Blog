@@ -1,1 +1,1 @@
-Hey! go here [helloWorld](hellowWorld.md)
+Hey! go here [helloWorld](helloWorld)
